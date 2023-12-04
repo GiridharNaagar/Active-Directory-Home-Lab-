@@ -107,6 +107,14 @@ Pinging the internet and pinging our domain to check does it really connected or
 
 ![s17](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/6bc1b731-28b1-485e-8d53-fdf7741906dd)
 
+Now we are changing the name of the system as Client 1 and joining that to the domain to mydomain.com and configuring with main admin account credentials and click okay to restart.
+<img width="1001" alt="Screenshot 2023-12-04 at 12 22 16 PM" src="https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/68ea8e8f-792b-43bd-8bdf-9a7bb1e3c32e">
+
+Go back to our domain server and open DHCP - Scope - Lesses - we can see the client 1 that we just attached
+
+![s18](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/9944b0f4-10e2-48fe-9127-5e3f20177833)
+
+
 
 
 
