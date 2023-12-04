@@ -88,10 +88,24 @@ and using powershell scripting
 ![s13](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/d76deabd-86ca-4b5c-950c-739579c4c3cb)
 
 Set-ExecutionPolicy - Unrestricted to not get distrubed while executing
+going to directory where we saved the names
+C:\users\a-pganesh\desktop\AD_PS-master and click play
 
 after execution of the script it creates the user accounts with passwords where it uses the names list which we provided in previous steps.
 ![s14](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/6ca995df-d0a8-4861-8732-be605fe61fc8)
 
+- <b> Opening up the client system </b>
+and using our user credentials we can login into the systesm
+
+![s15](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/3cb4be23-04ff-4cb6-94f1-b3f49b2fe913)
+
+Checking the system by cmd -> command - ipconfig
+
+![s16](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/42dcd145-9420-4438-993e-a8dac567f705)
+
+Pinging the internet and pinging our domain to check does it really connected or not
+
+![s17](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-/assets/114043681/6bc1b731-28b1-485e-8d53-fdf7741906dd)
 
 
 
