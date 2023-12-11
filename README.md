@@ -1,8 +1,8 @@
 <h1> Active Directory Home Lab </h1>
 
 <h2>Description</h2>
- In this Lab we're creating and Active Directory Home Lab Environment using Oracle Virtual Box. Configuring and running of this lab shows us how the active directory and windows networking works.
- we're using Windows Server 2022, Windows 10 iso  and creating virutal machines in the virtual box and configuring the networking and running lab setup.
+ In this Lab,we're creating an Active Directory Home Lab Environment using Oracle Virtual Box. Configuring and running this lab shows us how the active directory and Windows networking work.
+ we're using Windows Server 2022, and Windows 10 iso creating virtual machines in the virtual box and configuring the networking and running lab setup.
 <br />
 
 
